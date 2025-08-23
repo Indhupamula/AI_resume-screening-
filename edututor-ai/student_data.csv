@@ -1,0 +1,4 @@
+email,student_name,subject,topic,difficulty,quiz_type,score,total,timestamp,weak_areas,feedback_summary
+student@example.com,Student Demo,Mathematics,Linear Equations,Medium,MCQ+Short,3,5,2025-01-05T12:00:00Z,variables; solving steps,Missed variable isolation; clarify slope-intercept
+student@example.com,Student Demo,Science,Photosynthesis,Easy,MCQ+Short,4,5,2025-01-06T14:00:00Z,chlorophyll; light reactions,Good understanding; add detail on light-dependent step
+teacher@example.com,Teacher Demo,Computer Science,Sorting Algorithms,Hard,MCQ+Short,2,5,2025-01-06T16:00:00Z,complexity; stability,Review Big-O; contrast stable vs unstable sorts
